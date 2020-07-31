@@ -22,11 +22,14 @@
 </p>
 
 I am a graduate student at the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia Univeristy](http://wvu.edu).
-I work at the intersection of Deep Learning, High-Performance Computing and Big Data and use GPUs and deep learning to accelerate astronomical discoveries.
+I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I use GPUs and deep learning to accelerate astronomical discoveries.
 
 - 🌱 I’m currently reading [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers).
 - 👯 I’m looking to collaborate on several projects like [fetch](https://github.com/devanshkv/fetch) and [your](https://github.com/devanshkv/your).
 
-<a href="https://github.com/devanshkv">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=devanshkv&count_private=true&show_icons=true&hide=stars" />
-</a>
+<p align="center">
+    <a href="https://github.com/devanshkv">
+      <img align="middle" src="https://github-readme-stats.vercel.app/api?username=devanshkv&count_private=true&show_icons=true&hide=stars" />
+    </a>   
+    
+</p>
