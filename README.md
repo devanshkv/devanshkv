@@ -21,11 +21,12 @@
 
 </p>
 
-I am a graduate student at the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia Univeristy](http://wvu.edu).
-I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I use GPUs and deep learning to accelerate astronomical discoveries.
+I recetly graduated from the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia Univeristy](http://wvu.edu).
+I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I love using GPUs and deep learning to accelerate astronomical discovery process.
 
-- 🌱 I’m currently reading [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- 👯 I’m looking to collaborate on several projects like [fetch](https://github.com/devanshkv/fetch) and [your](https://github.com/devanshkv/your)
+- 🌱 I’m currently reading [Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/) and [The Subtle Art of Not Giving a F\*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713).
+- 👯 I’m open to collaborate on any project on my [github](https://github.com/devanshkv?tab=repositories) or [The Petabyte Project](https://github.com/thepetabyteproject).
+
 - Languages:
     <img align="middle" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="25"/>
     <img align="middle" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg" width="25" />
@@ -50,6 +51,6 @@ I work at the intersection of Deep Learning, High-Performance Computing and Big 
 
 <p align="center">
     <a href="https://github.com/devanshkv">
-      <img align="middle" src="https://github-readme-stats.vercel.app/api?username=devanshkv&count_private=true&show_icons=true&hide=stars" />
+      <img align="middle" src="https://github-readme-stats.vercel.app/api?username=devanshkv&count_private=true&show_icons=true" />
     </a>   
 </p>
