@@ -21,10 +21,10 @@
 
 </p>
 
-I recetly graduated from the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia Univeristy](http://wvu.edu).
-I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I love using GPUs and deep learning to accelerate astronomical discovery process.
+I am a fresh graduate from the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia University](http://wvu.edu).
+I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I love using GPUs and deep learning to accelerate the astronomical discovery process.
 
-- 🌱 I’m currently reading [Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/) and [The Subtle Art of Not Giving a F\*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713).
+- 🌱 I’m currently reading [Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/).
 - 👯 I’m open to collaborate on any project on my [github](https://github.com/devanshkv?tab=repositories) or [The Petabyte Project](https://github.com/thepetabyteproject).
 
 - Languages:
