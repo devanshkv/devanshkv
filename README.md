@@ -21,8 +21,7 @@
 
 </p>
 
-I am a fresh graduate from the [Department of Physics and Astronomy](https://physics.wvu.edu) at [West Virginia University](http://wvu.edu).
-I work at the intersection of Deep Learning, High-Performance Computing and Big Data. I love using GPUs and deep learning to accelerate the astronomical discovery process.
+I am a data scientist at [Bristol Myers Squibb](https://www.bms.com) and I work at the intersection of Deep Learning, High-Performance Computing and Big Data.
 
 - 🌱 I’m currently reading [Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/).
 - 👯 I’m open to collaborate on any project on my [github](https://github.com/devanshkv?tab=repositories) or [The Petabyte Project](https://github.com/thepetabyteproject).
