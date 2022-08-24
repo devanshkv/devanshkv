@@ -1,55 +1,33 @@
-<h3 align="center">
-:wave: Hello, I'm Devansh!
-</h3>
+<h1 align="center">Hi 👋, I'm Devansh Agarwal</h1>
+<h3 align="center">A passionate data scientist and a radio astronomer.</h3>
 
-<p align="center">
-    <a href="http://linkedin.com/in/devanshkv">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width=30px height=30px alt="linkedin: devanshkv">
-    </a>&nbsp;
-    <a href="https://github.com/devanshkv">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width=30px height=30px alt="github: devanshkv">
-    </a>&nbsp;
-    <a href="mailto:devansh.kv@gmail.com">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width=30px height=30px alt="email">
-    </a>&nbsp;
-    <a href="https://orcid.org/0000-0003-0385-491X">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width=30px height=30px alt="github: devanshkv">
-    </a>&nbsp;
-    <a href="http://twitter.com/devanshkv">
-        <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width=30px height=30px alt="github: devanshkv">
-    </a>&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshkv&label=Profile%20views&color=0e75b6&style=flat-square" alt="devanshkv" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshkv" alt="devanshkv" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/devanshkv" target="blank"><img src="https://img.shields.io/twitter/follow/devanshkv?logo=twitter&style=for-the-badge" alt="devanshkv" /></a> </p>
+
+- 🌱 I’m currently learning **FastAPI**
+
+- 👨‍💻 All of my projects are available at [https://devanshkv.github.io/projects/](https://devanshkv.github.io/projects/)
+
+- 💬 Ask me about **Deep Learning**
+
+- 📫 How to reach me **devansh.kv@gmail.com**
+
+- 📄 Know about my experiences [https://devanshkv.github.io/resume/Devansh_Agarwal_Resume_WVU.pdf](https://devanshkv.github.io/resume/Devansh_Agarwal_Resume_WVU.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devanshkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devanshkv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devanshkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devanshkv" height="30" width="40" /></a>
+<a href="https://fb.com/devanshkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devanshkv" height="30" width="40" /></a>
+<a href="https://instagram.com/devanshkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshkv" height="30" width="40" /></a>
 </p>
 
-I am a data scientist at [Bristol Myers Squibb](https://www.bms.com) and I work at the intersection of Deep Learning, High-Performance Computing and Big Data.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 🌱 I’m currently reading [Bayesian Data Analysis](https://avehtari.github.io/BDA_course_Aalto/).
-- 👯 I’m open to collaborate on any project on my [github](https://github.com/devanshkv?tab=repositories) or [The Petabyte Project](https://github.com/thepetabyteproject).
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshkv&show_icons=true&theme=dark&locale=en&layout=compact" alt="devanshkv" /></p>
 
-- Languages:
-    <img align="top" src="https://www.vectorlogo.zone/logos/python/python-official.svg" height="35"/>
-    <img align="top" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" height="35" />
-- Cloud:
-    <img align="top" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="35" />
-    <img align="top" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="35" />
-- Databases:
-    <img align="top" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" height="35" />
-    <img align="top" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg" height="35" />
-    <img align="top" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="35" />
-- Visualization:
-    <img align="top" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" height="35" />
-    <img align="top" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" height="35" />
-- Machine Learning:
-    <img align="top" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="45" />
-    <img align="top" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="35" />
-- CI/CD:
-    <img align="top" src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" height="35" />
-    <img align="top" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="35" />
-    <img align="top" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pypi.svg" height="35" />
-
-
-<p align="center">
-    <a href="https://github.com/devanshkv">
-      <img align="middle" src="https://github-readme-stats.vercel.app/api?username=devanshkv&count_private=true&show_icons=true&theme=vue-dark" />
-    </a>   
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkv&show_icons=true&theme=dark&locale=en" alt="devanshkv" /></p>
